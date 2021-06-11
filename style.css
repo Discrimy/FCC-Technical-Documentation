@@ -12,7 +12,8 @@ code {
     display: block;
     white-space: pre-line;
     background-color: rgba(255, 223, 183, 0.397);
-    padding: 5px;
+    padding: 10px;
+    margin: 10px;
 }
 
 #main-doc {
